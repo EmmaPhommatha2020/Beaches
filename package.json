@@ -1,0 +1,15 @@
+{
+  "name": "parallaxwebsite",
+  "version": "1.0.0",
+  "description": "parallax website",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "homepage": "https://github.com/emmadvlpr/",
+  "author": "Emma Phommatha",
+  "license": "MIT",
+  "dependencies": {
+    "gh-pages": "^1.2.0"
+  }
+}
