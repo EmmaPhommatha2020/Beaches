@@ -6,9 +6,9 @@
   "scripts": {
     "deploy": "gh-pages -d dist"
   },
-  "homepage": "https://github.com/emmadvlpr/",
+  "homepage": "https://github.com/emmadvlpr/Beaches",
   "author": "Emma Phommatha",
-  "license": "MIT",
+  "license": "ISC",
   "dependencies": {
     "gh-pages": "^1.2.0"
   }
